@@ -6,6 +6,10 @@ Bash script for beautifier XML file in command line
 Copy prettyxml into /bin/
 chmod +x prettyxml      - Or choose own chmod configuration
 
+# Requeriments
+
+Python
+
 # Usage
 
 prettyxml $file
